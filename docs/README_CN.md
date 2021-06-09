@@ -10,4 +10,4 @@
 ## 开发者社区
 开发者积分激励规则
 
-天枢链的开源协议为[GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)。详情参见[LICENSE](../LICENSE)。
+天枢链的开源协议为[GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)。
